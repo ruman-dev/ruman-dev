@@ -1,5 +1,4 @@
-### Hi there 👋
-My name is Md Ruman.
+### Hi there 👋 My name is Md Ruman.
 I'm a Flutter Developer from Bangladesh 🇧🇩.
 <!--
 **ruman-dev/ruman-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
