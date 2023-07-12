@@ -5,6 +5,7 @@ I'm a Flutter Developer from Bangladesh 🇧🇩.
 
 Here are some ideas to get you started:
 -->
+I worked on Java and Kotlin both.
 🔭 I’m currently working on different projects with Flutter
 - 🌱 I’m currently learning Flutter
 <!-- 👯 I’m looking to collaborate on ...
