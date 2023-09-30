@@ -1,13 +1,13 @@
-### Hi there 👋 My name is Md Ruman.
-I'm a Flutter Developer from Bangladesh 🇧🇩.
+### Hi there 👋 My name is Md. Ruman.
+I'm a Android Developer from Bangladesh 🇧🇩.
 <!--
 **ruman-dev/ruman-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-I worked on Java and Kotlin both.
-🔭 I’m currently working on different projects with Flutter
-- 🌱 I’m currently learning Flutter
+I worked on Java and Kotlin both. Also with Flutter FrameWork
+🔭 I’m currently working on different projects given in my GitHub account
+- 🌱 I’m currently learning ~~Flutter~~ Kotlin
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
