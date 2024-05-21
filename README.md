@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Java and Kotlin [GTrack - A Goal Tracker App](https://github.com/ruman-dev/GTrack)
 
-- 🌱 I’m currently learning **Tailwind CSS, also trying to cope up with Kotlin**
+- 🌱 I’m currently learning **Java, Tailwind CSS, also trying to cope up with Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ruman-dev/](https://github.com/ruman-dev/)
 
