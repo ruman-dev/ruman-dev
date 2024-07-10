@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruman-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ruman-dev" /> </p>
 
-- 🔭 I’m currently working on Java and Kotlin [GTrack - A Goal Tracker App](https://github.com/ruman-dev/GTrack)
+- 🔭 I’m currently working on Java [BidSell - An auction platform](https://github.com/ruman-dev/BidSell)
 
-- 🌱 I’m currently learning **Java, Tailwind CSS, also trying to cope up with Kotlin**
+- 🌱 I’m currently learning **Java, Tailwind CSS, and also trying to cope with Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ruman-dev/](https://github.com/ruman-dev/)
 
