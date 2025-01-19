@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruman-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ruman-dev" /> </p>
 
-- 🔭 I’m currently working on Java [BidSell - An auction platform](https://github.com/ruman-dev/BidSell-AuctionBiddingApp)
+- 🔭 I’m currently working on Mobile App Development Especially in FLUTTER
 
-- 🌱 I’m currently learning **Java, Tailwind CSS, and also trying to cope with Kotlin**
+- 🌱 I’m currently working on **Mobile App Development with Java, Flutter, and also trying to cope with Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ruman-dev/](https://github.com/ruman-dev/)
 
-- 💬 Ask me about **Java, C, C++, Kotlin, Android Studio**
+- 💬 Ask me about **Flutter, Dart, Java, C, C++, Kotlin, Android Studio**
 
 - 📫 How to reach me **ruman.cse49@gmail.com**
 
